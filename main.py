@@ -61,4 +61,4 @@ fg_population.add_child(
 map.add_child(fg_volcanoes)
 map.add_child(fg_population)
 map.add_child(folium.LayerControl())
-map.save("Map.html")
+map.save("index.html")
